@@ -256,6 +256,12 @@ section{
 .contacto iframe{
     width:100%;
     height:300px;
+    .galeria-desplegable,
+.noticia,
+.contacto{
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+}
     border:0;
     border-radius:12px;
     margin-top:15px;
