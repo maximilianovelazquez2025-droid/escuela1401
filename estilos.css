@@ -251,10 +251,7 @@ section{
     background: transparent;
     box-shadow: none;
     padding: 0;
-}
-.noticia,
-.contacto{
-    margin-left: -20px;
+
 }
 .contacto iframe{
     width:100%;
